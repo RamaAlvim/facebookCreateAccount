@@ -103,6 +103,8 @@ public class FirstPage {
 		
 		GlobalSeleniumLibrary.captureScreenshot("facebook", "/Users/fuerhaiti/Desktop/pics");
 		
+		System.out.println("Check in to the GIT is complete!");
+		
 	}
 
 }
